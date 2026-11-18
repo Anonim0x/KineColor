@@ -1,0 +1,6 @@
+{
+  "name": "EspectroLab 3D",
+  "description": "Calculadora espectral completa para formular combinaciones y porcentajes de mezcla de filamentos 3D mediante teoría de Kubelka-Munk y CIELAB ΔE2000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
